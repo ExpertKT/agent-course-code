@@ -1,0 +1,6 @@
+{
+  "city": "常州",
+  "max_steps": 5,
+  "retry_limit": 2,
+  "model_url": "http://127.0.0.1:18090/chat"
+}
